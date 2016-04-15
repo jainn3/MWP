@@ -1,0 +1,24 @@
+राम	राम	NNP	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+पास	पास	NST		adv				
+१०	१०	QC		num				
+सेब	सेब	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+उसने	उसने	PRP		unk				
+५	५	QC		num				
+श्याम	श्याम	NNP		adj	any	any		any
+को	को	PSP		psp				
+दिये	दे	VM	या	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+अब	अब	PRP		adv				
+राम	राम	NNP	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+पास	पास	NST		adv				
+कितने	कितना	WQ		adj	m	sg		o
+है	है	VM	है	v	any	sg	2	
+?	?	SYM		punc				
